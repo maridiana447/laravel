@@ -65,7 +65,7 @@
             <div class="card-body">
                 <h5 class="card-title">Bruxolito Q'Pinta</h5>
 
-                <a href="pirulito.html" class="btn btn-dark">Comprar</a>
+                <a href="pirulito" class="btn btn-dark">Comprar</a>
             </div>
         </div>
         <div class="card" id="bala" style="width: 18rem; background-color: rgb(37, 6, 37); color: white;">
@@ -73,14 +73,14 @@
             <div class="card-body">
                 <h5 class="card-title">Bala Fini Aranha</h5>
 
-                <a href="bala.html" class="btn btn-dark">Comprar</a>
+                <a href="bala" class="btn btn-dark">Comprar</a>
             </div>
         </div>
         <div class="card" id="chocolate" style="width: 18rem; background-color: rgb(37, 6, 37); color: white;">
             <img src="chocolate.webp" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Moedas sabor Chocolate</h5>
-                <a href="chocolates.html" class="btn btn-dark">Comprar</a>
+                <a href="chocolates" class="btn btn-dark">Comprar</a>
             </div>
         </div>
     </div>
@@ -91,7 +91,7 @@
             <div class="card-body">
                 <h5 class="card-title">Bolo abóbora</h5>
 
-                <a href="bolo.html" class="btn btn-dark">Comprar</a>
+                <a href="bolo" class="btn btn-dark">Comprar</a>
             </div>
         </div>
         <div class="card" id="bala" style="width: 18rem; background-color: rgb(37, 6, 37); color: white;">
@@ -99,19 +99,19 @@
             <div class="card-body">
                 <h5 class="card-title">Caixão de chocolate</h5>
 
-                <a href="chocolate2.html" class="btn btn-dark">Comprar</a>
+                <a href="chocolate2" class="btn btn-dark">Comprar</a>
             </div>
         </div>
         <div class="card" id="chocolate" style="width: 18rem; background-color: rgb(37, 6, 37); color: white;">
             <img src="bebidas2.webp" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Driks</h5>
-                <a href="bebidas.html" class="btn btn-dark">Comprar</a>
+                <a href="bebidas" class="btn btn-dark">Comprar</a>
             </div>
         </div>
     </div>
     <div class="d-flex gap-3 flex-wrap justify-content-center" style="margin-top: 20px;">
-        <a class="btn btn-dark" href="loja.html">Veja todos os produtos</a>
+        <a class="btn btn-dark" href="loja">Veja todos os produtos</a>
     </div>
     
 </body>

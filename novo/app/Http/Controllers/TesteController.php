@@ -18,4 +18,7 @@ class TesteController extends Controller
     public function pirulito2(Request $request){
     return view('pirulito2');
     }
+    public function bala(Request $request){
+    return view('bala');
+    }
 }
