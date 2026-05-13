@@ -14,7 +14,7 @@
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script src="sweetalert.js"></script>
     <script src="barra.js"></script>
-    <link rel="stylesheet" href="../LojaDeDoce/css/produtos.css">
+    <link rel="stylesheet" href="/css/produtos.css">
 </head>
 
 <body style="background-image:url(pink.webp); background-size: cover;">
@@ -65,7 +65,7 @@
                     <img src="chocolate.webp" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Moedas sabor Chocolate</h5>
-                        <a href="chocolates" class="btn btn-dark">Comprar</a>
+                        <a href="chocolate" class="btn btn-dark">Comprar</a>
                     </div>
                     <button class="btn btn-lg w-100 text-white mt-2" style="background-color: rgb(37, 6, 37);"
                         onclick="adicionarAoCarrinho('Moedas Sabor Chocolate', 25.99)">
@@ -113,7 +113,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Pão de Mel</h5>
 
-                        <a href="paodemel3" class="btn btn-dark">Comprar</a>
+                        <a href="paodemel2" class="btn btn-dark">Comprar</a>
                     </div>
                     <button class="btn btn-lg w-100 text-white mt-2" style="background-color: rgb(37, 6, 37);"
                         onclick="adicionarAoCarrinho('Pão de Mel', 4.99)">
@@ -125,7 +125,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Refrigerantes variados</h5>
 
-                        <a href="refrigerante" class="btn btn-dark">Comprar</a>
+                        <a href="bebidas2" class="btn btn-dark">Comprar</a>
                     </div>
                     <button class="btn btn-lg w-100 text-white mt-2" style="background-color: rgb(37, 6, 37);"
                         onclick="adicionarAoCarrinho('Refrigerantes Variados', 16.99)">

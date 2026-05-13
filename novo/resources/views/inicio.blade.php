@@ -13,7 +13,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script src="bemvindo.js"></script>
-    <link rel="stylesheet" href="css/inicio.css">
+    <link rel="stylesheet" href="/css/inicio.css">
 </head>
 
 <body>
@@ -80,7 +80,7 @@
             <img src="chocolate.webp" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Moedas sabor Chocolate</h5>
-                <a href="chocolates" class="btn btn-dark">Comprar</a>
+                <a href="chocolate" class="btn btn-dark">Comprar</a>
             </div>
         </div>
     </div>
@@ -111,7 +111,7 @@
         </div>
     </div>
     <div class="d-flex gap-3 flex-wrap justify-content-center" style="margin-top: 20px;">
-        <a class="btn btn-dark" href="loja">Veja todos os produtos</a>
+        <a class="btn btn-dark" href="produtos">Veja todos os produtos</a>
     </div>
     
 </body>
