@@ -23,3 +23,4 @@ Route::get('/cadastro',[TesteController::class,'cadastro']);
 Route::get('/login',[TesteController::class,'login']);
 
 Route::get('/cadastro_produto',[ProdutoController::class,'cadastro_produto'])->name('cadastro_produto');
+Route::get('/listar_produtos',[ProdutoController::class,'listar_produtos'])->name('listar_produtos');

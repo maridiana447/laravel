@@ -15,7 +15,7 @@ return new class extends Migration
             $table->id();
             $table->string('nome');
             $table->text('descricao')->nullable();
-            $table->decimal('preco', 10, 2)->default(0,00);
+            $table->decimal('preco', 10, 2)->default(0.00);
             $table->integer('estoque')->default(0);
             $table->date('data_validade')->nullable();
             $table->text('tipo')->nullable();
